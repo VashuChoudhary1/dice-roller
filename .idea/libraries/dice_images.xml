@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dice_images">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android-basics-kotlin-dice-roller-with-images-app-solution-master/dice_images.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
